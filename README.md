@@ -110,7 +110,10 @@ Ensure the following software is installed:
    ```bash
    git clone https://github.com/yourusername/bank-account-management.git
    cd bank-account-management
+2. Install this Libraray
+   ```python
    pip install customtkinter mysql-connector-python
+   ```
 ## 👤 Author
 ### Zia
 📧 Email: zia63000@gmail.com
