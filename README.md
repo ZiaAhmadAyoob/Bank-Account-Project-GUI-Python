@@ -108,9 +108,9 @@ Ensure the following software is installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bank-account-management.git
+   git clone https://github.com/ZiaAhmadAyoob/Bank-Account-Project-GUI-Python.git
    cd bank-account-management
-2. Install this Libraray
+2. Install this Library
    ```python
    pip install customtkinter mysql-connector-python
    ```
