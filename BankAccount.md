@@ -1,3 +1,4 @@
+```python
 import mysql.connector
 import random
 import customtkinter as ctk
@@ -404,3 +405,4 @@ class BankApp:
 
 if __name__ == "__main__":
     BankApp()
+```
